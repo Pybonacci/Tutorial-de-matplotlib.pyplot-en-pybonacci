@@ -52,8 +52,7 @@ Requerimientos para poder seguir el tutorial:
  - [ffmpeg](http://www.ffmpeg.org/) (solo para el capítulo IX b)
 
 O podéis verlo online con los enlaces al blog puestos más arriba o de forma 
-compacta y formato ipython notebook descargable desde la siguiente dirección:
-http://nbviewer.ipython.org/urls/raw.github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/master/Tutorial%20de%20matplotlib.pyplot.ipynb
+compacta y formato ipython notebook descargable desde [la siguiente dirección](http://nbviewer.ipython.org/urls/raw.github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/master/Tutorial%20de%20matplotlib.pyplot.ipynb)
 
 Licencia y modificaciones/mejoras:
 ----------------------------------
