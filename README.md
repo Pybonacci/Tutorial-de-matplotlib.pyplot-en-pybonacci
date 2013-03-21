@@ -59,6 +59,6 @@ Licencia y modificaciones/mejoras:
 
 Podéis hacer lo que queráis con ello mientras no cause daño a otro ser vivo :-)
 
-Cualquier errata, mejora o petición la podéis realizar a través de los [issues](https://github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/issues).
+Cualquier errata, mejora o petición la podéis realizar a través de los [issues](https://github.com/pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci/issues).
 
 Si queréis introducir mejoras o actualizar alguna cosa podéis 'forkear' y proponer los cambios que estiméis.
