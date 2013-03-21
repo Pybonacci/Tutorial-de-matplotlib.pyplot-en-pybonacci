@@ -1,9 +1,10 @@
-En este repositorio podéis encontrar las diferentes capítulos publicados 
-en [el blog de pybonacci](http://pybonacci.wordpress.com) recopilados en
+En este repositorio podéis encontrar los diferentes capítulos sobre
+el tutorial de matplotlib.pyplot publicados 
+en [el blog pybonacci](http://pybonacci.wordpress.com) recopilados en
 formato ipython notebook y con algún extra.
 
 Los capítulos oríginales:
-=========================
+-------------------------
 
 Los capítulos originales se fueron publicando en el blog durante el 2012. A 
 continuación dejamos un índice de los mismos y que han sido publicados en el
@@ -54,11 +55,11 @@ O podéis verlo online con los enlaces al blog puestos más arriba o de forma
 compacta y formato ipython notebook descargable desde la siguiente dirección:
 http://nbviewer.ipython.org/urls/raw.github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/master/Tutorial%20de%20matplotlib.pyplot.ipynb
 
-Cualquier errata, mejora o petición la podéis realizar a través de los [issues](https://github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/issues).
-
-Licencia:
-=========
+Licencia y modificaciones/mejoras:
+----------------------------------
 
 Podéis hacer lo que queráis con ello mientras no cause daño a otro ser vivo :-)
+
+Cualquier errata, mejora o petición la podéis realizar a través de los [issues](https://github.com/kikocorreoso/Tutorial-de-matplotlib.pyplot-en-pybonacci/issues).
 
 Si queréis introducir mejoras o actualizar alguna cosa podéis 'forkear' y proponer los cambios que estiméis.
